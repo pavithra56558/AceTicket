@@ -86,12 +86,6 @@ AceTicket
 
 ## 📷 Application Screenshots
 
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
----
-
 ### 🎫 Events Page
 
 ![Events](screenshots/events.png)
